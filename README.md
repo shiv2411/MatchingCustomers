@@ -7,13 +7,9 @@ For Backend:
 
 2-Run npm install to install all the node packages.
 
-3-npm install express --save for express
+3- To connect to the server, run node server.js
 
-4-npm install cors --save for cors.
-
-5- To connect to the server, run node server.js
-
-6-The api to get the list of matching customers is /get/matchingCustomers
+4-The api to get the list of matching customers is /get/matchingCustomers
 
 
 For frontend:
