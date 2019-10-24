@@ -15,7 +15,6 @@ For Backend:
 
 6-The api to get the list of matching customers is /get/matchingCustomers
 
-7-Go to the browser and open http://localhost:3000//get/matchingCustomers
 
 For frontend:
 
